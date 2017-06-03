@@ -54,8 +54,8 @@ written by
 #endif
 #include <cmath>
 #include <sstream>
-#include "queue.h"
-#include "core.h"
+#include "../inc/queue.h"
+#include "../inc/core.h"
 
 using namespace std;
 

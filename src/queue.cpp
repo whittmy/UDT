@@ -47,9 +47,9 @@ written by
 #endif
 #include <cstring>
 
-#include "common.h"
-#include "core.h"
-#include "queue.h"
+#include "../inc/common.h"
+#include "../inc/core.h"
+#include "../inc/queue.h"
 
 using namespace std;
 

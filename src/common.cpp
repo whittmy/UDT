@@ -55,8 +55,8 @@ written by
 #endif
 
 #include <cmath>
-#include "md5.h"
-#include "common.h"
+#include "../inc/md5.h"
+#include "../inc/common.h"
 
 bool CTimer::m_bUseMicroSecond = false;
 uint64_t CTimer::s_ullCPUFrequency = CTimer::readCPUFrequency();

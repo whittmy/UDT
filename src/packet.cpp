@@ -144,7 +144,7 @@ written by
 
 
 #include <cstring>
-#include "packet.h"
+#include "../inc/packet.h"
 
 
 const int CPacket::m_iPktHdrSize = 16;

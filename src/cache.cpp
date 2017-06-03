@@ -47,8 +47,8 @@ written by
 #endif
 
 #include <cstring>
-#include "cache.h"
-#include "core.h"
+#include "../inc/cache.h"
+#include "../inc/core.h"
 
 using namespace std;
 

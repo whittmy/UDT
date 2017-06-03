@@ -39,8 +39,8 @@ written by
 *****************************************************************************/
 
 #include <cmath>
-#include "common.h"
-#include "window.h"
+#include "../inc/common.h"
+#include "../inc/window.h"
 #include <algorithm>
 
 using namespace std;

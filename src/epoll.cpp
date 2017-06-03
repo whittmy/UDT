@@ -47,9 +47,9 @@ written by
 #include <cstring>
 #include <iterator>
 
-#include "common.h"
-#include "epoll.h"
-#include "udt.h"
+#include "../inc/common.h"
+#include "../inc/epoll.h"
+#include "../inc/udt.h"
 
 using namespace std;
 

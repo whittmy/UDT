@@ -39,8 +39,8 @@ written by
 *****************************************************************************/
 
 
-#include "core.h"
-#include "ccc.h"
+#include "../inc/core.h"
+#include "../inc/ccc.h"
 #include <cmath>
 #include <cstring>
 

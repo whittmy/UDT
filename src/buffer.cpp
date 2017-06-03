@@ -40,7 +40,7 @@ written by
 
 #include <cstring>
 #include <cmath>
-#include "buffer.h"
+#include "../inc/buffer.h"
 
 using namespace std;
 
